@@ -15,6 +15,9 @@ function getUserInput() {
     checked: false,
   });
   usrInput.value = "";
+
+
+  
 }
 </script>
 
