@@ -49,7 +49,7 @@ This is a simple task management app built with **Vue 3 Composition API**, desig
 ├── package.json              # dependencies & scripts
 ├── vite.config.js            # vite config
 └── README.md                 # you're here 👋
-
+```
 
 ## 🧠 What I Learned
 
